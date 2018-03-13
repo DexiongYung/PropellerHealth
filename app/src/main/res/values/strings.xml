@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PropellerHealth</string>
+    <string name="user_name">Users:</string>
+    <string name="Medication">Medication</string>
+</resources>
